@@ -14,7 +14,7 @@ position:absolute;
 margin-left:20%;
 height:100%;
 width:20%;
-background-color: white;
+background-color: #FFF;
 display:inline-block;
 }
 
@@ -23,6 +23,6 @@ display:inline-block;
     margin-left:40%;
     height:100%;
     width:40%;
-    background-color:teal;
+    background-color:#789869;
     display:inline-block;
 }
