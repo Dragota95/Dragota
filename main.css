@@ -9,11 +9,20 @@
     padding:0;
 }
 
-.teglalap{
+.teglalap1{
+position:absolute;
+margin-left:20%;
+height:100%;
+width:20%;
+background-color: white;
+display:inline-block;
+}
+
+.teglalap2{
     position:absolute;
-    margin-left: 20%;
-    margin-right: 20%;
-    height: 100%;
-    width: 60%;
-    background-color: white;
+    margin-left:40%;
+    height:100%;
+    width:40%;
+    background-color:teal;
+    display:inline-block;
 }
