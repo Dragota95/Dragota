@@ -26,3 +26,13 @@ display:inline-block;
     background-color:#789869;
     display:inline-block;
 }
+
+@font-face{
+    src:url(fonts/RhodiumLibre-Regular.ttf);
+    font-family:rhodium;
+}
+
+@font-face{
+    src:url(fonts/Ubuntu-Regular.ttf);
+    font-family:ubuntu;
+}
