@@ -10,22 +10,10 @@
 }
 
 .teglalap{
-    position: fixed;
-    height:100vh;
-    width:100%;
-}
-.szin1{
-    height:789px;
-    width:350px;
-    background: white;
-    position:fixed;
-    right:0px;
-}
-
-.szin2{
-    height:789px;
-    width:200px;
-    background: #789869;
-    position:fixed;
-    left:0px;
+    position:absolute;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 100%;
+    width: 60%;
+    background-color: white;
 }
